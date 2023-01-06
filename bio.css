@@ -1,0 +1,49 @@
+body {
+  font-family:monospace;
+  color:#2424ff;
+}
+
+h5 {
+  font-size:20px;
+  padding:10px;
+  background-color:white;
+  border-radius:50px;
+  font-family:monospace;
+  width:70px;
+  text-align:center;
+  border:solid;
+  border-color:#2424ff;
+  color:#2424ff
+}
+
+h5:hover {
+  color:white;
+  background-color:#2424ff;
+  transition:0.2s;
+}
+
+h5:active {
+  width:100px;
+  transition:0.2s;
+}
+
+h1 {
+  font-size:50px;
+  border-bottom:solid;
+}
+
+
+img {
+  border-radius:50px;
+}
+
+h2 {
+  font-size:30px;
+  width:100px;
+  border-bottom:solid;
+  border-bottom-color:#2424ff;
+}
+
+p {
+  font-size:30px;
+}

@@ -1,0 +1,112 @@
+
+
+.head {
+  position:relative;
+ width:100%;
+  height:100px;
+  background-color:#2424ff;
+  text-align:center;
+  color:white;
+  font-family:sans-serif;
+  border-radius:50px;
+}
+
+h1 {
+  position:relative;
+  border-bottom:solid;
+  border-bottom-color:white;
+  width:200px;
+  text-align:center;
+  top:10px;
+}
+
+
+
+img {
+  height:50px;
+  width:50px;
+  border-radius:50px;
+  border:solid;
+  border-color:white;
+  padding:2px;
+}
+
+.profile {
+ 
+  
+  display:flex;
+  justify-content:space-evenly;
+ 
+}
+
+
+
+
+.samuen {
+  border:solid;
+ border-color:#2424ff;
+  position:relative;
+  width:250px;
+  height:170px;
+  border-radius:50px;
+  padding-top:10px;
+  color:#2424ff;
+  background-color:white;
+  box-shadow:10px 10px 11px grey;
+  font-family:sans-serif;
+  
+}
+
+.samuen:hover{
+  background-color:#2424ff;
+  color:white;
+  transition:0.2s;
+}
+
+h2, p {
+  color:#c6c62a;
+}
+
+
+.profile {
+ 
+  
+  display:flex;
+  justify-content:space-evenly;
+ 
+}
+
+.samuen2 {
+ border:solid;
+ border-color:#2424ff;
+  position:relative;
+ 
+  width:250px;
+  height:170px;
+  border-radius:50px;
+  padding-top:10px;
+  color:#2424ff;
+  background-color:white;
+  box-shadow:10px 10px 11px grey;
+  font-family:sans-serif;
+  
+}
+
+second-row {
+  display:flex;
+  justify-content:space-evenly;
+}
+
+.samuen2:hover{
+  background-color:#2424ff;
+  color:white;
+  transition:0.2s;
+}
+
+.second-row {
+  text-align:center;
+ 
+  width:500px;
+  position:relative;
+  left:150px;
+}
